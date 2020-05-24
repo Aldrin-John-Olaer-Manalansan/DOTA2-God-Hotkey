@@ -1,0 +1,66 @@
+reginvfilehk1:
+if invcusthoton=1
+{
+if CCDirectory1Enabled=+
+{
+ifinstring,CCDirectory1Hotkey,!
+{
+KeyWait, Alt
+}
+ifinstring,CCDirectory1Hotkey,^
+{
+KeyWait, Ctrl
+}
+ifinstring,CCDirectory1Hotkey,+
+{
+KeyWait, Shift
+}
+#Include *i C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\DotA 2 AutoHotkeys\AJOM's Tools\customcombinations_2.aldrin_cc
+}
+}
+return
+
+reginvfilehk2:
+if invcusthoton=1
+{
+if CCDirectory2Enabled=+
+{
+ifinstring,CCDirectory2Hotkey,!
+{
+KeyWait, Alt
+}
+ifinstring,CCDirectory2Hotkey,^
+{
+KeyWait, Ctrl
+}
+ifinstring,CCDirectory2Hotkey,+
+{
+KeyWait, Shift
+}
+#Include *i C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\DotA 2 AutoHotkeys\AJOM's Tools\meepo combo yeah!.aldrin_cc
+}
+}
+return
+
+reginvfilehk3:
+if invcusthoton=1
+{
+if CCDirectory3Enabled=+
+{
+ifinstring,CCDirectory3Hotkey,!
+{
+KeyWait, Alt
+}
+ifinstring,CCDirectory3Hotkey,^
+{
+KeyWait, Ctrl
+}
+ifinstring,CCDirectory3Hotkey,+
+{
+KeyWait, Shift
+}
+#Include *i C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\DotA 2 AutoHotkeys\AJOM's Tools\earthbinder hahaha!.aldrin_cc
+}
+}
+return
+

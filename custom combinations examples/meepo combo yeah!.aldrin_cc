@@ -1,0 +1,14 @@
+sendinput, {F1}%spell20%
+sendinput, 0%spell18%
+sleep 1500.000000
+sendinput, 7%spell20%
+sendinput, 9%spell18%
+sleep 1500.000000
+sendinput, 8%spell20%
+sendinput, 7%spell18%
+sleep 1500.000000
+sendinput, 9%spell20%
+sendinput, 8%spell18%
+sleep 1500.000000
+sendinput, 0%spell20%
+sendinput, {F1}%spell18%

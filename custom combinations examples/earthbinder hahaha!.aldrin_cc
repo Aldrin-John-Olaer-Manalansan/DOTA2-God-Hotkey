@@ -1,0 +1,9 @@
+sendinput, {F1}%spell20%
+sleep 1500.000000
+sendinput, 7%spell20%
+sleep 1500.000000
+sendinput, 8%spell20%
+sleep 1500.000000
+sendinput, 9%spell20%
+sleep 1500.000000
+sendinput, 0%spell20%

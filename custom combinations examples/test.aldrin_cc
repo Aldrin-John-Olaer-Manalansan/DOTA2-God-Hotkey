@@ -1,0 +1,217 @@
+sendinput, %spell2%%spell1%%spell2%%spell4%%spell2%%spell2%%spell2%%spell4%x{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 600.000000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell3%%spell3%%spell2%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 100.000000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, c{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 1000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, d{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 1100.000000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell2%%spell1%%spell3%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 700.000000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, b{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 1500
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell1%%spell1%%spell3%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 200
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, g
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 2000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell1%%spell3%%spell3%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 200
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, f
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 2000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell2%%spell2%%spell3%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 200
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, !z
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 2000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell1%%spell1%%spell1%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 200
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, y{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 2000
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, %spell3%%spell3%%spell3%%spell4%
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sleep 200
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
+sendinput, t{Click}
+executinginclude=1
+if cancelcast=1
+{
+cancel=0
+return
+}
